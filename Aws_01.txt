@@ -1,0 +1,8 @@
+command - aws configure -> used for cli configuration access keys and secrets.
+
+
+aws iam list users
+
+lecture 34 - last side for classic ports
+
+login in ssh -> ssh -i {key.pem} {user}:public_ip
